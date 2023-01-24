@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b7e223b.css",
-    "main.js": "/static/js/main.386af465.js",
-    "static/js/787.a02c2a98.chunk.js": "/static/js/787.a02c2a98.chunk.js",
-    "static/media/Sohne-Halbfett.otf": "/static/media/Sohne-Halbfett.d6cec8c88803461b2d87.otf",
-    "static/media/Sohne-Buch.otf": "/static/media/Sohne-Buch.dfbe2815f92f79483c2c.otf",
-    "index.html": "/index.html",
-    "main.3b7e223b.css.map": "/static/css/main.3b7e223b.css.map",
-    "main.386af465.js.map": "/static/js/main.386af465.js.map",
-    "787.a02c2a98.chunk.js.map": "/static/js/787.a02c2a98.chunk.js.map"
+    "main.css": "/app/static/css/main.15bcf657.css",
+    "main.js": "/app/static/js/main.8e37f60c.js",
+    "static/js/787.a02c2a98.chunk.js": "/app/static/js/787.a02c2a98.chunk.js",
+    "static/media/Sohne-Halbfett.otf": "/app/static/media/Sohne-Halbfett.d6cec8c88803461b2d87.otf",
+    "static/media/Sohne-Buch.otf": "/app/static/media/Sohne-Buch.dfbe2815f92f79483c2c.otf",
+    "index.html": "/app/index.html",
+    "main.15bcf657.css.map": "/app/static/css/main.15bcf657.css.map",
+    "main.8e37f60c.js.map": "/app/static/js/main.8e37f60c.js.map",
+    "787.a02c2a98.chunk.js.map": "/app/static/js/787.a02c2a98.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b7e223b.css",
-    "static/js/main.386af465.js"
+    "static/css/main.15bcf657.css",
+    "static/js/main.8e37f60c.js"
   ]
 }
