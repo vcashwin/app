@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/app/static/css/main.1384b148.css",
-    "main.js": "/app/static/js/main.2c188cbd.js",
+    "main.js": "/app/static/js/main.160f0d5e.js",
     "static/js/787.a02c2a98.chunk.js": "/app/static/js/787.a02c2a98.chunk.js",
+    "static/media/pfp.jpg": "/app/static/media/pfp.f6d6b04387d42f541097.jpg",
     "static/media/mpfilogo.png": "/app/static/media/mpfilogo.b36d995de5d55803cc62.png",
     "static/media/Sohne-Halbfett.otf": "/app/static/media/Sohne-Halbfett.d6cec8c88803461b2d87.otf",
     "static/media/Sohne-Buch.otf": "/app/static/media/Sohne-Buch.dfbe2815f92f79483c2c.otf",
     "index.html": "/app/index.html",
     "main.1384b148.css.map": "/app/static/css/main.1384b148.css.map",
-    "main.2c188cbd.js.map": "/app/static/js/main.2c188cbd.js.map",
+    "main.160f0d5e.js.map": "/app/static/js/main.160f0d5e.js.map",
     "787.a02c2a98.chunk.js.map": "/app/static/js/787.a02c2a98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1384b148.css",
-    "static/js/main.2c188cbd.js"
+    "static/js/main.160f0d5e.js"
   ]
 }
