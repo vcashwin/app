@@ -1,6 +1,7 @@
 import * as React from "react";
 import { TbSun, TbMoonStars } from "react-icons/tb";
 import WorkHistory from "./components/work-history";
+import DisplayPicture from "./pfp.jpg";
 
 function DarkModeButton() {
   const [isDarkMode, setIsDarkMode] = React.useState(false);
@@ -24,7 +25,7 @@ function App() {
     <div className="flex flex-col justify-center items-center bg-gray-200 font-sohne min-h-screen p-6 dark:bg-[#1A1B1E] dark:text-[#C1C2C5]">
       <div className="flex flex-col lg:flex-row items-center justify-center space-x-4">
         <img
-          src="https://pbs.twimg.com/profile_images/1617809099533742080/-NdBFT7q_400x400.jpg"
+          src={DisplayPicture}
           className="mb-4 lg:mr-4 lg:mb-0 w-32 h-32 rounded-full object-cover"
           alt="Ashwin V C"
         />
