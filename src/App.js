@@ -1,5 +1,6 @@
-import { TbSun, TbMoonStars } from "react-icons/tb";
 import * as React from "react";
+import { TbSun, TbMoonStars } from "react-icons/tb";
+import WorkHistory from "./components/work-history";
 
 function DarkModeButton() {
   const [isDarkMode, setIsDarkMode] = React.useState(false);
@@ -20,7 +21,7 @@ function DarkModeButton() {
 
 function App() {
   return (
-    <div className="flex flex-col lg:flex-row justify-center items-center bg-gray-200 font-sohne min-h-screen p-6 dark:bg-[#1A1B1E] dark:text-[#C1C2C5]">
+    <div className="flex flex-col justify-center items-center bg-gray-200 font-sohne min-h-screen p-6 dark:bg-[#1A1B1E] dark:text-[#C1C2C5]">
       <div className="flex flex-col lg:flex-row items-center justify-center space-x-4">
         <img
           src="https://pbs.twimg.com/profile_images/1617809099533742080/-NdBFT7q_400x400.jpg"
@@ -46,6 +47,7 @@ function App() {
           </p>
         </div>
       </div>
+      <WorkHistory />
     </div>
   );
 }
